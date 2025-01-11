@@ -1,0 +1,8 @@
+# Roblox Blocklist
+# Diese Liste blockiert Roblox-Domains
+127.0.0.1 www.roblox.com
+127.0.0.1 api.roblox.com
+127.0.0.1 cdn.roblox.com
+127.0.0.1 images.rbxcdn.com
+127.0.0.1 setup.roblox.com
+127.0.0.1 telemetry.roblox.com
